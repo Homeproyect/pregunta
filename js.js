@@ -2,7 +2,7 @@ const yes = document.querySelector('#yes');
 
 yes.addEventListener('click',function()
 {
-    alert('gracias sabia que dirias que si jaja 😂😂😂');
+    alert('gracias 😉');
 });
 
 
